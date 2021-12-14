@@ -2,7 +2,7 @@
 ### Frankenstein epub & PDF file
 
 #### [Frankenstein PDF copy](https://github.com/slaing77/frank.github.io/blob/main/Frankenstein-SRL.pdf)
-#### [Frankenstein Epub copy](https://github.com/slaing77/frank.github.io/blob/main/frankenstein.epub)
+#### [Frankenstein Epub copy](https://github.com/slaing77/frank.github.io/blob/91b8d6c493447c6d9c9f53cf2d2d55cd5081304b/frankenstein.epub)
 
 click on epub or pdf file to download or open in browser
 <p>author, Mary Shelley</p>
