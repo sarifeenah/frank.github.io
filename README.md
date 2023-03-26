@@ -1,4 +1,4 @@
-#### [Frankenstein PDF copy](https://github.com/slaing77/frank.github.io/raw/main/Frankenstein-SRL.pdf)
+#### [Frankenstein PDF copy](https://github.com/slaing77/frank.github.io/blob/4ae696e0c551df23fe5a8de531a8002425836cff/Frankenstein%20-%20Shelley,%20Mary.pdf)
 #### [Frankenstein Epub copy](https://github.com/slaing77/frank.github.io/raw/main/frankenstein.epub)
 
 
