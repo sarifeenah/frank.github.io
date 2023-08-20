@@ -12,5 +12,5 @@ click on epub or pdf file to download or open in browser
 <p>epub layout and design by S.R. Laing</p>
 <p>cover art by S.R. Laing</p>
 <p>forward by S.R.Laing </p>
-<p>This version has been tested in Kobo, and EPUBReader extension for Firefox(https://www.epubread.com/en/faq.php?webext=1)
+<p>This version has been tested in Kobo, and EPUBReader extension for Firefox (https://www.epubread.com/en/faq.php?webext=1)</p>
 <p> enjoy!</p>
