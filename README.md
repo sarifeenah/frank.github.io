@@ -1,6 +1,13 @@
 ### [ Listen to Mary, Mother of Monsters](https://drive.google.com/file/d/1HSfUQYXJX-BPKwDDCSB9LPJlK10JNyyh/view?usp=sharing)
-A short summary of Mary Shelly's Biography by Sareenah Laing
-### Scan Frankenstein QCode to get a free PDF of Frankenstein, by Mary Shelly<br> <img src="https://github.com/slaing77/frank.github.io/blob/main/qrcode_frank_shelley.com.png" alt="QCode" style="width:300px;"/><br>
+<p>by Sareenah Laing</p>
+<p>Made using Microsoft Clipchamp & a Yeti Blue Microphone</p>
+Sound Wave provided by https://www.vecteezy.com
+
+[<img alt="MMoM" width="500px" src="https://github.com/slaing77/frankenstein/blob/main/MMoM.png" />](https://drive.google.com/file/d/1HSfUQYXJX-BPKwDDCSB9LPJlK10JNyyh/view?usp=sharing/)
+
+### Scan the QCode to get a free PDF copy of Frankenstein </p> 
+<p> by Mary Shelly</p> 
+<img src="https://github.com/slaing77/frank.github.io/blob/main/qrcode_frank_shelley.com.png" alt="QCode" style="width:300px;"/><br></p>
 
 click on epub or pdf file to download or open in browser
 #### [Frankenstein PDF copy](https://github.com/slaing77/frank.github.io/blob/main/Frankenstein%20-%20Shelley%2C%20Mary.pdf)
